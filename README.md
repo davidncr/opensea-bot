@@ -30,3 +30,5 @@ Bid based on specific traits
 Select listings you want to bid on. Automate offers on collections with specific traits so you never miss out because you couldn’t log in to OpenSea.
 
 Please visit https://os-bot.com for more!
+
+Files coming soon!
