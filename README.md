@@ -31,4 +31,4 @@ Select listings you want to bid on. Automate offers on collections with specific
 
 Please visit https://os-bot.com for more!
 
-Files coming soon!
+Files will be available soon!
